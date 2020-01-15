@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bdhobare:mpesa:0.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52aee9fdf63f02160668dd8ce943f338/mpesa-0.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52aee9fdf63f02160668dd8ce943f338/mpesa-0.0.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bdhobare/mpesa/0.0.6/b222d770f2882085763bfb24c9056b303d0ecc85/mpesa-0.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bdhobare/mpesa/0.0.6/d960b6950d4d4127b5567f09f32f8430ddb3fe6b/mpesa-0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

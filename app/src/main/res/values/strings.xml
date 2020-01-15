@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Good Tracker</string>
+    <string name="google_maps_key">AIzaSyDJnDn_O0nybXXsBypZ_5wTu1lVXOgHIjU</string>
+
+    <!--LOGIN AND REGISTER STRINGS-->
+    <string name="login_register_header">Sign up</string>
+    <string name="login_login_header">Sign in</string>
+    <string name="login_hint_email">Enter your e-mail</string>
+    <string name="login_hint_password">Enter password</string>
+    <string name="login_already_registerd">Registered? Log in!</string>
+    <string name="login_register_button">Register</string>
+    <string name="login_login_button">Log in</string>
+    <string name="login_progressbar_register">Registering… \n Wait</string>
+    <string name="login_no_account_yet">Do not have an account? Register</string>
+    <string name="login_progressbar_login">Logging.. \n Wait</string>
+    <string name="login_weak_password">Weak password. Try another.</string>
+    <string name="login_bad_email">E-mail not valid</string>
+    <string name="login_user_exists">User is already existing</string>
+    <string name="login_forgot_pass">Forgot password?</string>
+    <string name="login_forgot_pass_toast">Password reset instruction were send with e-mail</string>
+    <string name="login_forgot_pass_toast_unsucc">E-mail with password reset was not sent.</string>
+
+
+</resources>

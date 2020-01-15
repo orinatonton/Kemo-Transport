@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.wanjy.dannie.dropper.MainActivity"
+    android:orientation="vertical">
+  <TextView
+      android:layout_width="match_parent"
+      android:text="WELCOME"
+      android:padding="0dp"
+      android:gravity="center"
+      android:visibility="gone"
+      android:textColor="@color/colorAccentts"
+      android:textStyle="bold|italic"
+      android:textSize="30dp"
+
+      android:fontFamily="@string/bottom_sheet_behavior"
+      android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="TO"
+        android:padding="0dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:textColor="@color/colorAccentts"
+        android:textStyle="bold|italic"
+        android:textSize="30dp"
+        android:fontFamily="@string/bottom_sheet_behavior"
+        android:layout_height="wrap_content" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:text="RUBA"
+      android:gravity="center"
+      android:textColor="@color/colorAccentts"
+      android:textStyle="bold|italic"
+      android:paddingBottom="25dp"
+      android:textSize="30dp"
+      android:fontFamily="@string/bottom_sheet_behavior"
+      android:layout_height="wrap_content" />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:orientation="horizontal"
+       android:padding="20dp"
+       android:layout_height="wrap_content">
+     <Button
+        android:layout_width="0dp"
+        android:padding="20dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/colorAccents"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/login"/>
+
+     <View
+         android:layout_width="20dp"
+         android:layout_height="0dp"/>
+
+
+  <Button
+      android:id="@+id/register"
+      android:layout_width="0dp"
+      android:layout_weight="1"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:background="@drawable/button_shape"
+      android:padding="20dp"
+      android:text="Register"
+      android:textColor="@color/colorAccents" />
+   </LinearLayout>
+
+</LinearLayout>

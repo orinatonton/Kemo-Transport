@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "713428985804",
+    "firebase_url": "https://dropper-1548846790314.firebaseio.com",
+    "project_id": "dropper-1548846790314",
+    "storage_bucket": "dropper-1548846790314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713428985804:android:5b7dc50fa4aa3319",
+        "android_client_info": {
+          "package_name": "com.juacancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3J-3DzPYBeMf3Wg1chIEeZUnHHUcPzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713428985804:android:31aaed9c7c4e41b9",
+        "android_client_info": {
+          "package_name": "com.keniobyte.carrier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3J-3DzPYBeMf3Wg1chIEeZUnHHUcPzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713428985804:android:13580e75473c372c",
+        "android_client_info": {
+          "package_name": "com.wanjy.dannie.dropper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713428985804-8fio7j5rct9m9iprilm0vrg51a7mi30i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wanjy.dannie.dropper",
+            "certificate_hash": "4a9d8486d8737fdaf0aa5c21f9e6ce4c907ec8a4"
+          }
+        },
+        {
+          "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3J-3DzPYBeMf3Wg1chIEeZUnHHUcPzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713428985804-l2ddml1hq1p07n3cdm75q622b3e65p5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
